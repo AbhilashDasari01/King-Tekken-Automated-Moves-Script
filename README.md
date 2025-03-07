@@ -50,24 +50,24 @@ How It Works:
 
 Move List & Key Bindings:
 -------------------------
-- **Giant Swing (P1)**  → Press `U`  
+- **Giant Swing (P1 Side)**  → Press `U`  
   - **Input sequence:** `→, ← ↓, → + Square`  
-- **Giant Swing (P2)**  → Press `H`  
+- **Giant Swing (P2 Side)**  → Press `H`  
   - **Input sequence:** `←, → ↓, ← + Square`  
 
-- **Twister (P1)**      → Press `Y`  
+- **Twister (P1 Side)**      → Press `Y`  
   - **Input sequence:** `→, ← ↓, → + Triangle`  
-- **Twister (P2)**      → Press `G`  
+- **Twister (P2 Side)**      → Press `G`  
   - **Input sequence:** `←, → ↓, ← + Triangle`  
 
-- **Muscle Buster (P1)** → Press `]`  
+- **Muscle Buster (P1 Side)** → Press `]`  
   - **Input sequence:** `↓ ↙ ← + Square + Triangle`  
-- **Muscle Buster (P2)** → Press `[`  
+- **Muscle Buster (P2 Side)** → Press `[`  
   - **Input sequence:** `↓ ↘ → + Square + Triangle`  
 
-- **Crouch Dash (P1)**  → Press `E`  
+- **Crouch Dash (P1 Side)**  → Press `E`  
   - **Input sequence:** `→ ↓ ↘` 
-- **Crouch Dash (P2)**  → Press `Q`  
+- **Crouch Dash (P2 Side)**  → Press `Q`  
   - **Input sequence:** `← ↓ ↙`  
 
 Timing and Frame Rate:
