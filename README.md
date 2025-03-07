@@ -1,6 +1,6 @@
-=========================================
-King-Tekken-Automated-Moves-Script (Python)
-=========================================
+
+# King-Tekken-Automated-Moves-Script (Python)
+
 
 Description:
 ------------
