@@ -15,8 +15,7 @@ Requirements:
 -------------
 - Python 3.x  
 - `pynput` library (install using: `pip install pynput`)  
-- PPSSPP emulator running **Tekken 6**  
-- A properly configured keyboard for PPSSPP  
+- A properly configured keyboard.
 
 Setup Instructions:
 -------------------
@@ -36,10 +35,6 @@ Setup Instructions:
      ```
      python script.py
      ```
-
-4. **Start PPSSPP and Tekken 6**  
-   - Make sure the game is running and your keyboard controls match  
-     the script’s expected input layout.
 
 How It Works:
 -------------
@@ -82,11 +77,11 @@ Troubleshooting:
 
 **1. The moves are coming out too slow or too fast.**  
    - Modify the `move_delay` value in the script to adjust timing.  
-   - Ensure PPSSPP is running at **full speed (60 FPS)** for accuracy.  
+   - Ensure Tekken is running at **full speed (60 FPS)** for accuracy.  
 
 **2. My keyboard inputs are different from the script.**  
-   - Open PPSSPP and check **Controls Settings**.  
-   - Change the script’s key bindings to match your PPSSPP configuration.  
+   - Open Tekken and check **Controls Settings**.  
+   - Change the script’s key bindings to match your configuration.  
 
 Customization:
 --------------
