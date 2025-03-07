@@ -9,7 +9,9 @@ It listens for specific key presses and simulates the correct input sequences
 to execute moves with frame-accurate timing.
 
 The script is useful for practicing or testing certain moves that require  
-precise execution, such as Giant Swing, Twister, and Muscle Buster.
+precise execution, such as Giant Swing, Twister, Muscle Buster and Crouch Dash.
+
+Bonus: Tombstone Pile Driver can be done by reverse Crouch Dash f+(2+3)
 
 Requirements:
 -------------
